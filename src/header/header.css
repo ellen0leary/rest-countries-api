@@ -1,0 +1,17 @@
+button {
+    float: right;
+    border-style: none;
+    padding: 5px;
+}
+
+p {
+    margin: 15px 30px;
+}
+
+section {
+    background-color: white;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 800;
+}
+
